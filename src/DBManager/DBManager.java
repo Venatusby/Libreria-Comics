@@ -8,7 +8,7 @@ import java.util.Scanner;
  * Por Alejandro Rodriguez Mena
  * 
  * Ejercicio 32
- * 
+ * asd
  * Tenemos una base de datos para gestionar las cuentas corrientes de un banco con las siguientes tablas:
 
 CLIENTES (dni, nombre, teléfono, dirección).
